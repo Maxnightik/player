@@ -6,9 +6,12 @@ html {
 }
 
 body {
-  background: #cbded8;
   margin: 0;
   overflow: hidden;
+}
+
+.bg {
+  width: -webkit-fill-available;
 }
 
 .b_overlay {
